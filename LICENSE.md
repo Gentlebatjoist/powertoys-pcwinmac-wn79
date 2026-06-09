@@ -1,4 +1,4 @@
-# 
+# Exclusive PowerToys tools for Mac OS | Secure PowerToys tools for PC Windows. Featuring driver updater and system tray integration — optimized for maximum performance on every platform.
 
 
 
